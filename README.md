@@ -1,3 +1,7 @@
+#my_profile.py
+#Author:Yreignoa Navarro, BSCS 1-1
+#Purpose: Displays my profile using variables.
+
 name = "Yreignoa Navarro"
 program = "BSCS"
 section = "1-1"
